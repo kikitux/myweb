@@ -28,19 +28,16 @@ apt-get install git
 
 ## How to use
 
-- <what> - [ why ]
-<how>
-
 - clone this repo to your computer
 
 ```
-git clone https://github.com/kikitux/newrepo.git
+git clone https://github.com/kikitux/myweb.git
 ```
 
 - change directory to the new created directory
 
 ```
-cd newrepo
+cd myweb
 ```
 
 - create the vms with vagrant
