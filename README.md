@@ -22,9 +22,9 @@ apt-get install git
 ```
 
 | tool | macos | linux |
----
+| ------------- | ------------- |
 | git | xcode --cli | `apt-get install git`|
----
+
 
 ## How to use
 
